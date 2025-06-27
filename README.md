@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales & Return Dashboard – Power BI
+# 🛍️ Retail Sales & Return Analysis Dashboard – Power BI
 
 An interactive business intelligence dashboard designed to visualize and analyze over $2.3M in retail sales data, return patterns, and customer behavior using Power BI.
 
